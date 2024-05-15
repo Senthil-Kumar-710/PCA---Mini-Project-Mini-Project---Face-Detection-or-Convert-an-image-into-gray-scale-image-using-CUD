@@ -2,7 +2,7 @@
 
 ## AIM:
 
-The aim of this project is to demonstrate how to convert an image to grayscale using CUDA programming without relying on the OpenCV library. It serves as an example of GPU-accelerated image processing using CUDA.
+The aim of this project is to demonstrate how to convert an image to grayscale using CUDA programming.
 
 ## Procedure:
 1. Load the input image using the stb_image library.
