@@ -1,5 +1,9 @@
 # PCA-Mini-Project---Face-Detection-or-Convert-an-image-into-gray-scale-image-using-CUD
 
+## Name: Senthil Kumar S
+## Reg No: 212221230091
+## Date: 15/05/2024
+
 ## AIM:
 
 The aim of this project is to demonstrate how to convert an image to grayscale using CUDA programming.
